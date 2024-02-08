@@ -15,19 +15,19 @@
 Hey there, folks! I'm Niharika Sable, a tech-savvy enthusiast who eats, breathes, and lives programming. I'm the wizard of web development and an ultimate UI/UX ninja who can create eye-catching designs that will make you go WOW!, feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/prathmesh-gokhe">
+	<a href="https://www.linkedin.com/in/niharikasable">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 <!-- 	<a href="https://instagram.com/atharva_malode_?igshid=YmMyMTA2M2Y=">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 	</a> -->
-	<a href=" https://twitter.com/PrathmeshGokhe?t=d0U5tOXBUiw0BGhlG338iQ&s=08 ">
+	<a href=" https://twitter.com/?t=d0U5tOXBUiw0BGhlG338iQ&s=08 ">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
 	<!-- <a href="https://prathmeshgokhe.me/">
 		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a> -->
-        <a href="mailto:pkgokhe1969@gmail.com">
+        <a href="mailto:niharikasable@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
